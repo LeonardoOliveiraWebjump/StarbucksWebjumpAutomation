@@ -1,0 +1,14 @@
+{
+  "name": "starbucks_at_home_automation",
+  "version": "1.0.0",
+  "description": "Automation for the Starbucks Brasil e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Oliveira, Junior Dantas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
